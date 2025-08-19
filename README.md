@@ -38,11 +38,4 @@ Con base en la evaluación integral de las métricas analizadas, se concluye que
 
 Por lo tanto, se recomienda al Sr. Juan proceder con la venta de la **Tienda 4**. Esta recomendación se fundamenta principalmente en su menor contribución al ingreso total de la cadena, lo que indica una eficiencia operativa relativamente inferior en comparación con las Tiendas 1, 2 y 3. La desinversión en esta unidad permitiría al Sr. Juan capitalizar recursos con el impacto menos perjudicial en la facturación consolidada de Alura Store, facilitando así la financiación de su nuevo emprendimiento.
 
-## Instrucciones para Ejecutar el Notebook
 
-Para replicar el análisis y explorar los datos, siga los siguientes pasos:
-
-1.  Acceda al notebook de Google Colab.
-2.  Asegúrese de contar con una conexión a internet estable para la descarga de los conjuntos de datos desde el repositorio de GitHub.
-3.  Ejecute cada celda del notebook secuencialmente. El código está organizado para cargar los datos, realizar los análisis paso a paso y generar las visualizaciones correspondientes.
-4.  Revise las salidas de cada celda para observar los resultados de cada etapa del análisis y las visualizaciones generadas.
